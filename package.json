@@ -1,0 +1,24 @@
+{
+  "name": "node-social-stats",
+  "version": "0.1.0",
+  "description": "Get standardized social statistics for CN urls",
+  "main": "module.js",
+  "scripts": {
+    "start": "node module.js",
+    "sample": "node examples/simple.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request-promise": "^1.0.2"
+  },
+  "babel": {
+    "presets": [
+      "es2015"
+    ]
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.1.18"
+  }
+}
