@@ -2,7 +2,7 @@
   "name": "node-social-stats",
   "version": "0.1.0",
   "description": "Get standardized social statistics for CN urls",
-  "main": "lib/module.js",
+  "main": "src/module.js",
   "scripts": {
     "start": "node module.js",
     "dev": "babel src --watch --out-dir lib",
