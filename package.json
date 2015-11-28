@@ -2,9 +2,10 @@
   "name": "node-social-stats",
   "version": "0.1.0",
   "description": "Get standardized social statistics for CN urls",
-  "main": "module.js",
+  "main": "lib/module.js",
   "scripts": {
     "start": "node module.js",
+    "dev": "babel src --watch --out-dir lib",
     "sample": "node examples/simple.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
