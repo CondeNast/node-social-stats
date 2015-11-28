@@ -4,7 +4,7 @@
   "description": "Get standardized social statistics for CN urls",
   "main": "src/module.js",
   "scripts": {
-    "start": "node module.js",
+    "start": "node src/module.js",
     "dev": "babel src --watch --out-dir lib",
     "sample": "node examples/simple.js",
     "test": "echo \"Error: no test specified\" && exit 1"
