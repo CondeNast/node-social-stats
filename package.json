@@ -1,7 +1,7 @@
 {
   "name": "node-social-stats",
   "version": "0.1.0",
-  "description": "Get standardized social statistics for CN urls",
+  "description": "Get standardized social statistics for any url",
   "main": "src/module.js",
   "scripts": {
     "start": "node src/module.js",
