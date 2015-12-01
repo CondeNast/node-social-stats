@@ -8,8 +8,7 @@ var Social = {
     var sources = [
       'facebook',
       'linkedin',
-      'pinterest',
-      'twitter'
+      'pinterest'
     ];
 
     var self = this;
